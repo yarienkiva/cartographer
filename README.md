@@ -13,4 +13,7 @@ Pour l'instant le code découpe en trois parties :
 - Une seconde partie qui crawl tout les messages d'un serveur pour chercher les invitations discord
 - Et une dernière partie selfbot qui leave et rejoint les discord automatiquement grâce aux invitations fournis
 
-![osinttheplanet](https://i.imgur.com/OmwSqyN.png) 
+![osinttheplanet]() 
+<p align="center">
+  <img width="300" height="300" src="https://i.imgur.com/OmwSqyN.png">
+</p>
